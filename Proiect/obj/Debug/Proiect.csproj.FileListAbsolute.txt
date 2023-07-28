@@ -1,0 +1,14 @@
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\bin\Debug\Proiect.exe.config
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\bin\Debug\Proiect.exe
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\bin\Debug\Proiect.pdb
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.exe
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.pdb
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.FStart.resources
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.Pacienti.resources
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.Servicii.resources
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.Internare.resources
+D:\FACULTATE\AN 3\TAP\lab\proiect final\Proiect\Proiect\obj\Debug\Proiect.FInternareAct.resources
